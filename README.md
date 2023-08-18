@@ -19,6 +19,12 @@ RMDL model can be seen as ensemble approach for deep learning models.RMDL solves
 
 ## Implementation 
 *********************************************************************************************************************************************************************************
+* Setup the python environment for project
+    * create python environmtn
+    * install packages
+    ```pip
+    pip install -r hahnn\cnn-hierarchical-network-for-document-classification\requirements.txt
+    ``` 
 * Try to replicate the results given in paper on document classification datasets with HAHNN model. [a link](https://github.com/rubaramanan/ML-Programming-Final-Project/blob/main/hahnn/cnn-hierarchical-network-for-document-classification/hahnn-for-document-classification.ipynb)
 * choose imdb datset as standard dataset.
 * To compare the performance of HAHNN model, trained XLNet model on the above-mentioned dataset. [a link](https://github.com/rubaramanan/ML-Programming-Final-Project/blob/main/src/Movie_Reviews_XLNet.ipynb)
