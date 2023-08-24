@@ -7,7 +7,7 @@ github link : [https://github.com/luisfredgs/cnn-hierarchical-network-for-docume
 
 ## Description of Paper
 *********************************************************************************************************************************************************************************
-RMDL model can be seen as ensemble approach for deep learning models.RMDL solves the problem of finding the best deep learning structure and architecture while simultaneously improving robustness and accuracy through ensembles of deep learning architectures.
+The paper proposes a novel approach combining convolutional neural networks, gated recurrent units, and attention mechanisms for document classification. The key contribution lies in utilizing convolutional layers to extract meaningful and abstract features through hierarchical representation.
 
 ## Context of the Problem
 ********************************************************************************************************************************************************************************
